@@ -2,7 +2,8 @@
 
 # PICTURE
 
-![PROGRAMMING](https://github.com/lisbeth34/lisbeth34/assets/131878280/79aa3263-23ef-4603-871a-478edb5d13e1)
+<img src="https://github.com/lisbeth34/lisbeth34/assets/131878280/79aa3263-23ef-4603-871a-478edb5d13e1" alt="PROGRAMMING" width="200"/>
+
 
 
 <!--
