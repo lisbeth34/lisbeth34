@@ -7,7 +7,7 @@
 
 - 🌱 A little About me....
 
-- 👯 i am a full stact Developer intern at Capaciti**
+- 👯 i am a full stact Developer intern at Capaciti
 
 - 📫 Reach out at hloniphanirespect37@gmail.com or whatsapp 0795953906
 
