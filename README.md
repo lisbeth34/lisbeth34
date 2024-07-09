@@ -1,7 +1,7 @@
 👨🏿‍💻 Hi there , I am Hloniphani Respect Ngoveni
 
 
-   <img src="https://github.com/lisbeth34/lisbeth34/assets/131878280/79aa3263-23ef-4603-871a-478edb5d13e1" alt="PROGRAMMING" width="200"/>
+   <img src="https://github.com/lisbeth34/lisbeth34/assets/131878280/79aa3263-23ef-4603-871a-478edb5d13e1" alt="PROGRAMMING" align="right" width="200"/>
 
 - 🌱 A little About me....
 - 
