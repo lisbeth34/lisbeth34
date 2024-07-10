@@ -4,11 +4,13 @@
    <img src="https://github.com/lisbeth34/lisbeth34/assets/131878280/79aa3263-23ef-4603-871a-478edb5d13e1" alt="PROGRAMMING" align="right" width="200"/>
 
 - 🌱 A little About me....
-- 
+ 
 - 👯 i am a full stact Developer intern at Capaciti
-- 
+  
+- 🍀 Ask me about anything, I am happy to help
+  
 - 📫 Reach out at hloniphanirespect37@gmail.com or whatsapp 0795953906
--                      
+                      
 - ⚡ From Richfield Graduate institute of Technology
 
 ## 🌐 Socials:
