@@ -8,7 +8,7 @@
 
 - 🌱 A little About me....
  
-- 👯 i am a full stact Developer intern at Capaciti
+- 👯 I am a full stact Developer intern at Capaciti
   
 - 🍀 Ask me about anything, I am happy to help
   
