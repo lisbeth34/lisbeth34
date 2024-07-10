@@ -1,4 +1,7 @@
-👨🏿‍💻 Hi there , I am Hloniphani Respect Ngoveni
+👨🏿‍💻 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hloniphani+Respect+Ngoveni!⭐⭐+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
+</h1>
 
 
    <img src="https://github.com/lisbeth34/lisbeth34/assets/131878280/79aa3263-23ef-4603-871a-478edb5d13e1" alt="PROGRAMMING" align="right" width="200"/>
